@@ -1,2 +1,2 @@
-__author__ = 'Corey Petty'
-name = "py-etherscan-api"
+__author__ = 'Christian Ericsson'
+name = "py-arbiscan-api"
