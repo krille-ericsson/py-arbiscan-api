@@ -1,4 +1,4 @@
-from etherscan.transactions import Transactions
+from arbiscan.transactions import Transactions
 import json
 
 with open('../../api_key.json', mode='r') as key_file:

@@ -1,15 +1,15 @@
 import setuptools
 
 setuptools.setup(
-    name='py_etherscan_api',
+    name='py_arbiscan_api',
     version='0.9.0',
     packages=['examples', 'examples.stats', 'examples.tokens',
-              'examples.accounts', 'examples.blocks', 'examples.transactions',  'etherscan'],
-    url='https://github.com/corpetty/py-etherscan-api',
+              'examples.accounts', 'examples.blocks', 'examples.transactions',  'arbiscan'],
+    url='https://github.com/krille-ericsson/py-arbiscan-api.git',
     license='MIT',
-    author='coreypetty',
-    author_email='petty.btc@gmail.com',
-    description='Python Bindings to Etherscan.io API',
+    author='Christian Ericsson',
+    author_email='',
+    description='Python Bindings to Arbitrum Block Explorer API',
     install_requires=[
         'requests>=2.20.0',
     ],

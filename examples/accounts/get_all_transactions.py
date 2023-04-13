@@ -1,4 +1,4 @@
-from etherscan.accounts import Account
+from arbiscan.accounts import Account
 import json
 
 with open('../../api_key.json', mode='r') as key_file:

@@ -1,4 +1,4 @@
-from etherscan.blocks import Blocks
+from arbiscan.blocks import Blocks
 import json
 
 with open('../../api_key.json', mode='r') as key_file:

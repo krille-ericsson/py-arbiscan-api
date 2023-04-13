@@ -1,4 +1,4 @@
-from etherscan.stats import Stats
+from arbiscan.stats import Stats
 import json
 
 with open('../../api_key.json', mode='r') as key_file:

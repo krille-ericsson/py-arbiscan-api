@@ -1,7 +1,7 @@
 import unittest
 import warnings
 
-from etherscan.accounts import Account
+from arbiscan.accounts import Account
 
 SINGLE_BALANCE = '40891626854930000000000'
 SINGLE_ACCOUNT = '0xddbd2b932c763ba5b1b7ae3b362eac3e8d40121a'

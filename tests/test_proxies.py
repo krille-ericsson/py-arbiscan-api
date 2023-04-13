@@ -2,7 +2,7 @@ import re
 import unittest
 import warnings
 
-from etherscan.proxies import Proxies
+from arbiscan.proxies import Proxies
 
 API_KEY = 'YourAPIkey'
 BLOCK_NUMBER = 2165403

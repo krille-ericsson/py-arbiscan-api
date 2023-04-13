@@ -1,7 +1,7 @@
 import unittest
 import warnings
 
-from etherscan.blocks import Blocks
+from arbiscan.blocks import Blocks
 
 BLOCK = 2165403
 BLOCK_REWARD = '5314181600000000000'

@@ -1,8 +1,8 @@
 import unittest
 import warnings
 
-from etherscan.logs import Logs, LogsException
-from etherscan.client import InvalidAPIKey
+from arbiscan.logs import Logs, LogsException
+from arbiscan.client import InvalidAPIKey
 
 FROM_BLOCK = 379224
 TO_BLOCK = 400000

@@ -1,4 +1,4 @@
-from etherscan.contracts import Contract
+from arbiscan.contracts import Contract
 import json
 
 with open('../../api_key.json', mode='r') as key_file:

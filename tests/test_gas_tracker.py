@@ -1,7 +1,7 @@
 import unittest
 import warnings
 
-from etherscan.gas_tracker import GasTracker
+from arbiscan.gas_tracker import GasTracker
 
 GAS_PRICE = '2000000000'
 PRICE_ORACLE_RESULT_DICT_KEYS = ("SafeGasPrice",

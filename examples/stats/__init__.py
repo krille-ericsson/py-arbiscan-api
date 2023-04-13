@@ -1,1 +1,1 @@
-__author__ = 'Corey Petty'
+__author__ = 'Christian Ericsson'

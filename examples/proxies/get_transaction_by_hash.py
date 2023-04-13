@@ -1,4 +1,4 @@
-from etherscan.proxies import Proxies
+from arbiscan.proxies import Proxies
 import json
 
 with open('../../api_key.json', mode='r') as key_file:

@@ -1,7 +1,7 @@
 import unittest
 import warnings
 
-from etherscan.tokens import Tokens
+from arbiscan.tokens import Tokens
 
 ELCOIN_TOKEN_SUPPLY = '21265524714464'
 ELCOIN_TOKEN_BALANCE = "135499"

@@ -40,7 +40,7 @@ class Client(object):
     dao_address = '0xbb9bc244d798123fde783fcc1c72d3bb8c189413'
 
     # Constants
-    PREFIX = 'https://api.etherscan.io/api?'
+    PREFIX = 'https://api.arbiscan.io/api?'
     MODULE = 'module='
     ACTION = '&action='
     CONTRACT_ADDRESS = '&contractaddress='
